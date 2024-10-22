@@ -1,0 +1,28 @@
+# Comparison Operators Example
+
+x = 10
+y = 5
+
+# 1. Equal to (==)
+result = (x == y)
+print("Equal to (x == y):", result)  # False
+
+# 2. Not equal to (!=)
+result = (x != y)
+print("Not equal to (x != y):", result)  # True
+
+# 3. Greater than (>)
+result = (x > y)
+print("Greater than (x > y):", result)  # True
+
+# 4. Less than (<)
+result = (x < y)
+print("Less than (x < y):", result)  # False
+
+# 5. Greater than or equal to (>=)
+result = (x >= y)
+print("Greater than or equal to (x >= y):", result)  # True
+
+# 6. Less than or equal to (<=)
+result = (x <= y)
+print("Less than or equal to (x <= y):", result)  # False

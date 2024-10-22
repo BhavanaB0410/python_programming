@@ -1,0 +1,5 @@
+OOP in Python: Focuses on using classes and objects to organize code.
+Class: A blueprint for creating objects.
+Object: An instance of a class.
+Constructors: Special methods to initialize object attributes.
+Methods: Functions defined within a class to define behaviors of the objects.

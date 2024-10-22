@@ -1,0 +1,8 @@
+Widgets are the building blocks of a Tkinter GUI. They are components that allow user interaction, display information, and manage input.
+
+Commonly Used Widgets:
+Label: Displays text or images.
+Button: Performs an action when clicked.
+Entry: Single-line text input.
+Text: Multi-line text input.
+Frame: A container for organizing widgets.
