@@ -1,0 +1,9 @@
+Tkinter is the standard Python interface to the Tk GUI toolkit. 
+It allows developers to create graphical user interfaces for their Python applications.
+Tkinter is included with Python installations, making it readily accessible without needing to install additional packages.
+
+Key Features of Tkinter:
+
+Cross-Platform: Tkinter applications can run on various platforms, including Windows, macOS, and Linux.
+Built-in Widgets: Tkinter provides a wide range of widgets like buttons, labels, text boxes, and more to create interactive applications.
+Event-Driven: It uses an event-driven programming model, allowing developers to respond to user actions like clicks and keypresses.
